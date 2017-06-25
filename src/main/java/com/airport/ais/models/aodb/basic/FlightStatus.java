@@ -27,5 +27,7 @@ public class FlightStatus extends IntIdEntity {
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
+	
+	
 
 }
